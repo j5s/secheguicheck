@@ -2,10 +2,6 @@ package cc.ccon.heguicheck;
 
 import android.content.ContentResolver;
 import android.content.Intent;
-import android.os.Build;
-
-import java.util.HashMap;
-import java.util.Map;
 
 import de.robv.android.xposed.IXposedHookLoadPackage;
 import de.robv.android.xposed.XposedBridge;
